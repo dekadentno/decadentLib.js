@@ -2,8 +2,6 @@
 decadentLib.js
 
 A little library I made inspired by TodoMVC for some small projects and stuff.
-=======
-# decadentLib.js
-A little library I made inspired by TodoMVC for some small projects and stuff.
->>>>>>> 90386f73e9c8cbd08ecf890374c4e717f2a2abf1
-# decadentLib.js
+
+It's mostly a formerly known tree structure and a javascript "backbone" that I'm used to.
+I'll upgrade it every once in a while with some stuff that I find useful over time.
